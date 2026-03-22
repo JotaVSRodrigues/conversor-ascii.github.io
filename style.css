@@ -1,0 +1,35 @@
+body {
+    background: rgba(10, 10, 10, 0.938);
+    color: #00ff00;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    background: transparent;
+    border: none;
+    color: #fafafa;
+    outline: none;
+    width: 90%;
+}
+
+span {
+    color:#fafafa
+}
+
+pre {
+    color: #00ff00;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.2;
+}
+
+#terminal {
+    padding: 20px;
+}
+
+
+#output div {
+    margin-bottom: 5px;
+    color: #00ff00;
+}
