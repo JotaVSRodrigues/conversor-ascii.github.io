@@ -47,6 +47,9 @@ pre {
     caret-shape: block;
 }
 
+#p-direitos {
+    color: oklch(59.77% 0.29541 314.217);
+}
 
 @keyframes typing {
   from {
