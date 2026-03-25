@@ -101,7 +101,7 @@ function processCommand(cmd) {
 
 }
 
-// implentação do código do Kevin
+// implentação do código do Vinicius
 function efeitoEmbaralhado(elemento, textoFinal) {
     let letras = "ABCDEFGHIJKLMNOPQRTUVWXYZ!@#$1234567890";
     let iteracao = 0;
